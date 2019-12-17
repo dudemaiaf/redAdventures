@@ -39,11 +39,5 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  },
-  "lock": {
-    "com.unity.2d.tilemap.extras": {
-      "revision": "master",
-      "hash": "4b6135b40733eadaae77e268335c9110510f70f7"
-    }
   }
 }

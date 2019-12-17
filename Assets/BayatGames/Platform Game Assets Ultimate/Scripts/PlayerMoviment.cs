@@ -32,7 +32,6 @@ public class PlayerMoviment : MonoBehaviour
 
     public void OnLanding ()
     {
-        Debug.Log("111");
         animator.SetBool("IsJumping", false);
     }
 
@@ -48,4 +47,5 @@ public class PlayerMoviment : MonoBehaviour
         controller.Move(horizontalMove * Time.fixedDeltaTime, false, jump);
         jump = false;
     }
+
 }

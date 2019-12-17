@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BayatGames/Platform Game Assets Ultimate/Scenes/MainMenu.unity
+    guid: 46cdd955cd2ff4a1d8235db9691746d1
+  - enabled: 1
+    path: Assets/BayatGames/Platform Game Assets Ultimate/Scenes/RedAdventures.unity
+    guid: a91154e8176bb4d79a82e1d17e5792ac
   m_configObjects: {}

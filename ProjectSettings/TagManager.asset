@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -13,8 +14,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Scenario
+  - Player
   - 
   - 
   - 
@@ -40,4 +41,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Tree
+    uniqueID: 3719430581
+    locked: 0
+  - name: Arbust
+    uniqueID: 2612680547
+    locked: 0
+  - name: Fance
+    uniqueID: 4007293765
+    locked: 0
+  - name: Flower
+    uniqueID: 612439567
+    locked: 0
+  - name: Character
+    uniqueID: 3462277111
     locked: 0
